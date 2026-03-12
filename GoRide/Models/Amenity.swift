@@ -94,3 +94,7 @@ class AmenityDataModel {
         return [amenity1, amenity2, amenity3, amenity4, amenity5, amenity6, amenity7, amenity8, amenity9, amenity10]
     }
 }
+\
+
+
+wertyujkl
